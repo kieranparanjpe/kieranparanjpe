@@ -1,6 +1,6 @@
 # **Kieran Paranjpe 🚀🚀**
 ### 💫 About Me:
-Hi! My name is Kieran. I'm currently studying Computer Science at McGill in Montreal. I've been writing code for 8 years, and I'm particularly interesed in backend development and machine learning. Previously, I interned at <a href="https://versebuilding.com/">The Verse</a>, captained <a href="https://forcesunknown.weebly.com/">FTC Forces Unknown 16267</a>, and developed and released video games on <a href="https://kieranparanjpe.itch.io">itch.io</a>. I love to make things, and I'm always excited to learn a new technical skill.
+Hi! My name is Kieran. I'm currently studying Computer Science at McGill in Montreal. I've been writing code for 8 years, and I'm particularly interesed in backend development and machine learning. Currently I'm a software intern for <a href="https://www.autodesk.com"> Autodesk </a>. Previously, I interned at <a href="https://versebuilding.com/">The Verse</a>, captained <a href="https://forcesunknown.weebly.com/">FTC Forces Unknown 16267</a>, and developed and released video games on <a href="https://kieranparanjpe.itch.io">itch.io</a>. I love to make things, and I'm always excited to learn a new technical skill.
 <br>
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin/in/kieran-paranjpe) 
