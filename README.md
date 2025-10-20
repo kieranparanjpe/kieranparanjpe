@@ -1,8 +1,7 @@
 # **Kieran Paranjpe**
 ### About Me:
 Hi! My name is Kieran. I'm currently studying Computer Science at McGill. I've been developing software for 9 years, and I'm particularly interesed in machine learning. Previously, I interned at 
-<a href="https://www.autodesk.com"> Autodesk and 
-<a href="https://versebuilding.com/">The Verse</a>, captained 
+<a href="https://www.autodesk.com"> Autodesk <\a> and <a href="https://versebuilding.com/">The Verse</a>, captained 
 <a href="https://forcesunknown.weebly.com/">FTC Forces Unknown 16267</a>, and developed and released video games on 
 <a href="https://kieranparanjpe.itch.io">itch.io</a>. I love to make things, and I'm always excited to learn new skills.
 <br>
