@@ -2,9 +2,6 @@
 ### About Me:
 Hi! My name is Kieran. I'm studying CS @ McGill, expected to graduate in December 2027.
 
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin/in/kieran-paranjpe) 
-
 # Proficient Languages:
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
